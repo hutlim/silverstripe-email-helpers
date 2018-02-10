@@ -11,17 +11,17 @@
 		}
 	],
 	"require": {
-		"silverstripe/framework": "~3.0",
+		"silverstripe/framework": "~4.0",
 		"pelago/emogrifier": "~1.0",
 		"phpmailer/phpmailer": "^5.2.20"
 	},
 	"require-dev": {
-		"phpunit/PHPUnit": "3.7.*@stable"
+		"phpunit/phpunit": "^5.7",
 	},
 	"extra": {
 		"installer-name": "email-helpers",
 		"branch-alias": {
-			"dev-master": "1.0.x-dev"
+			"dev-master": "2.0.x-dev"
 		}
 	},
 	"replace": {
